@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Azure**
 
-- 👨‍💻 Visit my website! [https://mineth-weerasinghe.vercel.app/](https://mineth-weerasinghe.vercel.app/)
+- 👨‍💻 Visit my website! [https://www.mineth.me/](https://www.mineth.me/)
 
 - 💬 Ask me about **React ,.Net**
 
