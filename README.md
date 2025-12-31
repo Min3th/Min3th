@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Docker, Azure**
+- 🌱 I’m currently learning **GNN's**
 
 - 👨‍💻 Visit my website! [https://www.mineth.me/](https://www.mineth.me/)
 
